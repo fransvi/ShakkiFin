@@ -1,0 +1,32 @@
+﻿Build started 23.2.2018 1:09:58.
+     1>Project "C:\Users\Frans\Downloads\ShakkiPalautus\ShakkiPalautus\shakki\shakki.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Asema.cpp kayttoliittyma.cpp main.cpp nappula.cpp peli.cpp ruutu.cpp siirto.cpp vastustaja.cpp
+         Asema.cpp
+         kayttoliittyma.cpp
+         main.cpp
+         nappula.cpp
+         peli.cpp
+         ruutu.cpp
+         siirto.cpp
+         vastustaja.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Frans\Downloads\ShakkiPalautus\ShakkiPalautus\Release\shakki.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Frans\Downloads\ShakkiPalautus\ShakkiPalautus\Release\shakki.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Frans\Downloads\ShakkiPalautus\ShakkiPalautus\Release\shakki.lib" /MACHINE:X86 /SAFESEH Release\Asema.obj
+         Release\kayttoliittyma.obj
+         Release\main.obj
+         Release\nappula.obj
+         Release\peli.obj
+         Release\ruutu.obj
+         Release\siirto.obj
+         Release\vastustaja.obj
+         Generating code
+         304 of 308 functions (98.7%) were compiled, the rest were copied from previous compilation.
+           12 functions were new in current compilation
+           3 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         shakki.vcxproj -> C:\Users\Frans\Downloads\ShakkiPalautus\ShakkiPalautus\Release\shakki.exe
+     1>Done Building Project "C:\Users\Frans\Downloads\ShakkiPalautus\ShakkiPalautus\shakki\shakki.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.78
